@@ -1,2 +1,2 @@
 # Project_CIS_695
-Comprehensive Project in Computer Information Systems
+## Comprehensive Project in Computer Information Systems
