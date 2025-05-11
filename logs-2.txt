@@ -1,0 +1,83 @@
+[2025-04-18 05:06:33.993256] ✅ Saved 500 records to Google Drive
+[2025-04-18 05:09:15.626600] ✅ Saved 500 records to Google Drive
+[2025-04-18 05:09:17.503115] Logistic Regression Accuracy: 0.97
+[2025-04-18 05:09:17.685443] Decision Tree Accuracy: 0.99
+[2025-04-18 05:14:49.407556] ✅ Saved 500 records to Google Drive
+[2025-04-18 05:14:50.884775] Logistic Regression Accuracy: 0.97
+[2025-04-18 05:14:51.064557] Decision Tree Accuracy: 0.96
+[2025-04-18 05:30:48.723407] ✅ Saved 500 records to Google Drive
+[2025-04-18 05:30:50.164296] Logistic Regression Accuracy: 0.96
+[2025-04-18 05:30:50.348327] Decision Tree Accuracy: 0.98
+[2025-04-18 05:37:37.773471] ✅ Saved 500 records to Google Drive
+[2025-04-18 05:37:38.975404] Logistic Regression Accuracy: 0.98
+[2025-04-18 05:37:39.146753] Decision Tree Accuracy: 1.00
+[2025-04-18 06:17:37] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 01:22:21] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 01:36:42] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 01:38:27] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 01:39:08] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 07:38:09] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:01:50] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:18:59] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:21:16] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:24:22] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:33:42] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:37:43] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:53:19] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:55:36] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 11:57:12] ✅ Saved 500 records to Google Drive and Local
+[2025-04-18 12:02:16] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 01:35:18] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 01:41:53] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 02:34:31] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 03:40:55] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 03:41:23] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 03:42:12] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 03:48:46] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 03:50:55] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 04:11:21] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 04:15:17] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 04:37:48] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 05:13:44] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 14:55:23] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 14:56:56] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 14:57:34] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 15:02:36] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 15:21:51] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 21:32:39] ✅ Saved 500 records to Google Drive and Local
+[2025-04-19 21:47:32] ✅ Saved 500 records to Google Drive and Local
+[2025-04-20 06:05:49] ✅ Saved 500 records to Google Drive and Local
+[2025-04-20 08:38:10] ✅ Saved 500 records to Google Drive and Local
+[2025-04-20 20:30:55] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 08:18:48] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 09:49:24] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 09:59:21] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 10:38:20] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 11:44:25] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 11:57:47] ✅ Saved 500 records to Google Drive and Local
+[2025-04-21 12:26:13] ✅ Saved 500 records to Google Drive and Local
+[2025-04-22 10:23:06] ✅ Saved 500 records to Google Drive and Local
+[2025-04-22 10:44:32] ✅ Saved 500 records to Google Drive and Local
+[2025-04-23 18:39:20] ✅ Saved 500 records to Google Drive and Local
+[2025-04-23 20:56:30] ✅ Saved 500 records to Google Drive and Local
+[2025-04-24 02:21:39] ✅ Saved 500 records to Google Drive and Local
+[2025-04-24 02:23:50] ✅ Saved 500 records to Google Drive and Local
+[2025-04-24 13:57:16] ✅ Saved 500 records to Google Drive and Local
+[2025-04-24 14:37:55] ✅ Saved 500 records to Google Drive and Local
+[2025-04-28 08:54:38] ❌ Fetch Error: 403 Client Error: Forbidden for url: https://www.goflightlabs.com/flight_delays?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiMWNkNzY2YzY4NzU2YzQ4ZTQ3MGJhMTU2NmFiOTE3ODg1MjljMmJlNjExZmQ1YzQ5ZmQwMDJkMzRmOThkODNlMGUxMDY1NDA1OGY0ZTlmMzciLCJpYXQiOjE3MzkyODY1MTQsIm5iZiI6MTczOTI4NjUxNCwiZXhwIjoxNzcwODIyNTE0LCJzdWIiOiIyNDI4NSIsInNjb3BlcyI6W119.vtqjGOukH2aTa-hqkbEjtGqZPWBqZFv9QhxJ7VZDQyvghgcVVnDoG2KQBCfYp0nv7jQ1-Yx8Yky8a0VeQyo16g&delay=60&type=departures
+[2025-04-28 11:08:35] ❌ Fetch Error: 403 Client Error: Forbidden for url: https://www.goflightlabs.com/flight_delays?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiMWNkNzY2YzY4NzU2YzQ4ZTQ3MGJhMTU2NmFiOTE3ODg1MjljMmJlNjExZmQ1YzQ5ZmQwMDJkMzRmOThkODNlMGUxMDY1NDA1OGY0ZTlmMzciLCJpYXQiOjE3MzkyODY1MTQsIm5iZiI6MTczOTI4NjUxNCwiZXhwIjoxNzcwODIyNTE0LCJzdWIiOiIyNDI4NSIsInNjb3BlcyI6W119.vtqjGOukH2aTa-hqkbEjtGqZPWBqZFv9QhxJ7VZDQyvghgcVVnDoG2KQBCfYp0nv7jQ1-Yx8Yky8a0VeQyo16g&delay=60&type=departures
+[2025-04-28 11:54:52]  Fetch Error: 403 Client Error: Forbidden for url: https://www.goflightlabs.com/flight_delays?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiMWNkNzY2YzY4NzU2YzQ4ZTQ3MGJhMTU2NmFiOTE3ODg1MjljMmJlNjExZmQ1YzQ5ZmQwMDJkMzRmOThkODNlMGUxMDY1NDA1OGY0ZTlmMzciLCJpYXQiOjE3MzkyODY1MTQsIm5iZiI6MTczOTI4NjUxNCwiZXhwIjoxNzcwODIyNTE0LCJzdWIiOiIyNDI4NSIsInNjb3BlcyI6W119.vtqjGOukH2aTa-hqkbEjtGqZPWBqZFv9QhxJ7VZDQyvghgcVVnDoG2KQBCfYp0nv7jQ1-Yx8Yky8a0VeQyo16g&delay=60&type=departures
+[2025-04-28 12:20:21]  Fetch Error: 403 Client Error: Forbidden for url: https://www.goflightlabs.com/flight_delays?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiMWNkNzY2YzY4NzU2YzQ4ZTQ3MGJhMTU2NmFiOTE3ODg1MjljMmJlNjExZmQ1YzQ5ZmQwMDJkMzRmOThkODNlMGUxMDY1NDA1OGY0ZTlmMzciLCJpYXQiOjE3MzkyODY1MTQsIm5iZiI6MTczOTI4NjUxNCwiZXhwIjoxNzcwODIyNTE0LCJzdWIiOiIyNDI4NSIsInNjb3BlcyI6W119.vtqjGOukH2aTa-hqkbEjtGqZPWBqZFv9QhxJ7VZDQyvghgcVVnDoG2KQBCfYp0nv7jQ1-Yx8Yky8a0VeQyo16g&delay=60&type=departures
+[2025-04-28 13:46:30]  Fetch Error: 403 Client Error: Forbidden for url: https://www.goflightlabs.com/flight_delays?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiMWNkNzY2YzY4NzU2YzQ4ZTQ3MGJhMTU2NmFiOTE3ODg1MjljMmJlNjExZmQ1YzQ5ZmQwMDJkMzRmOThkODNlMGUxMDY1NDA1OGY0ZTlmMzciLCJpYXQiOjE3MzkyODY1MTQsIm5iZiI6MTczOTI4NjUxNCwiZXhwIjoxNzcwODIyNTE0LCJzdWIiOiIyNDI4NSIsInNjb3BlcyI6W119.vtqjGOukH2aTa-hqkbEjtGqZPWBqZFv9QhxJ7VZDQyvghgcVVnDoG2KQBCfYp0nv7jQ1-Yx8Yky8a0VeQyo16g&delay=60&type=departures
+[2025-04-28 16:39:29]  Saved 500 records to Google Drive and Local
+[2025-04-28 17:26:42]  Saved 500 records to Google Drive and Local
+[2025-04-28 17:27:35]  Saved 500 records to Google Drive and Local
+[2025-04-28 17:36:30]  Saved 500 records to Google Drive and Local
+[2025-04-28 17:37:08]  Saved 500 records to Google Drive and Local
+[2025-04-28 17:39:38]  Saved 500 records to Google Drive and Local
+[2025-04-28 18:36:29]  Saved 500 records to Google Drive and Local
+[2025-04-29 09:00:12]  Saved 500 records to Google Drive and Local
+[2025-04-29 10:01:34]  Saved 500 records to Google Drive and Local
+[2025-04-29 10:10:19]  Saved 500 records to Google Drive and Local
+[2025-04-29 10:54:28]  Saved 500 records to Google Drive and Local
+[2025-05-02 23:57:32]  Fetch Error: 403 Client Error: Forbidden for url: https://www.goflightlabs.com/flight_delays?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiMWNkNzY2YzY4NzU2YzQ4ZTQ3MGJhMTU2NmFiOTE3ODg1MjljMmJlNjExZmQ1YzQ5ZmQwMDJkMzRmOThkODNlMGUxMDY1NDA1OGY0ZTlmMzciLCJpYXQiOjE3MzkyODY1MTQsIm5iZiI6MTczOTI4NjUxNCwiZXhwIjoxNzcwODIyNTE0LCJzdWIiOiIyNDI4NSIsInNjb3BlcyI6W119.vtqjGOukH2aTa-hqkbEjtGqZPWBqZFv9QhxJ7VZDQyvghgcVVnDoG2KQBCfYp0nv7jQ1-Yx8Yky8a0VeQyo16g&delay=60&type=departures
